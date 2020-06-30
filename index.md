@@ -26,7 +26,7 @@ for monitoring real-time Open Interest, bid-ask among 5+ exchanges. Built using 
 ---
 
 ### Research
-- [Project 1 Title](http://example.com/)
+- [Jupyter Notebook - Pricing North American High Yield CDS Index](https://github.com/FedererKK/cds-pricing/blob/master/Pricing%20CDX%20High%20Yield%20.ipynb)
 
 
 ---
