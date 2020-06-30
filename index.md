@@ -5,7 +5,7 @@ Over the past years, I pursued three simultaneous careers, as (a) an investment 
   During my tenure at Digital Age I returned ~2.5x in 1.5 years by investing in cryptocurrencies.
   At Midas Capital I was responsible for a team of 5 people, providing liquidity in digital assets listed derivatives (swaps, futures and options).
   
-  As technology consultant I worked with BlockchainLab, BitQuota, Medisieve, The Rock Trading and Cydia. 
+  As technology consultant I worked with BlockchainLab, BitQuota, Medisieve, Sygnum, The Rock Trading and Cydia. 
   
   As an Angel Investor I carried several investments in early-stage and more established companies such as Bitfinex, The Rock Trading, IONOMR, AlphaFlow and Kraken.
   
