@@ -16,16 +16,16 @@ Over the past years, I pursued three simultaneous careers, as (a) an investment 
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Bitcoin Futures dashboard](https://charts.mongodb.com/charts-project-0-yleox/public/dashboards/884a1d91-0aed-43a4-ab6b-f198b5748209)
-Built using serverless approach with AWS Lambda and mongoDB for storing data
-<img src="images/picture_1.jpg?raw=true"/>
+for monitoring real-time Open Interest, bid-ask among 5+ exchanges. Built using serverless AWS Lambda plus mongoDB for storing data.
+<br>
+<img src="images/picture_1.png?raw=true"/>
 
 ---
 
-### Category Name 2
-
+### Research
 - [Project 1 Title](http://example.com/)
 
 
