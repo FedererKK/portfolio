@@ -20,14 +20,14 @@ Over the past years, I pursued three simultaneous careers, as (a) an investment 
 
 [Bitcoin Futures dashboard](https://charts.mongodb.com/charts-project-0-yleox/public/dashboards/884a1d91-0aed-43a4-ab6b-f198b5748209)
 for monitoring real-time Open Interest, bid-ask among 5+ exchanges. Built using serverless AWS Lambda plus mongoDB for storing data.
-<br>
+<br><br>
 <img src="images/picture_1.png?raw=true"/>
 
 <br><br>
 
 [Equity Derivatives dashboard]()
 for the automatic generation of company reports with a focus on equity derivatives: options with highest OI by strike and by maturity, most traded, volatility smile and ATM vol term strcture. Data are relieved in real time from Yahoo Finance and elaborated using mostly pandas and numpy. The web page is rendered completely using Dash by Plotly.
-<br>
+<br><br>
 <img src="images/picture_2.png?raw=true"/>
 
 ---
