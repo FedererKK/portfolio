@@ -1,11 +1,29 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+title: Federico Natali 
+logo: "/images/circle-cropped.png?raw=true"ì
+description: > # your text below 
+  
+  Over the past years, I pursued three simultaneous careers, as (a) an investment manager for Digital Age Fund and Midas Capital, (b) as a technology consultant and (c) as Angel Investor.
+  
+  During my tenure at Digital Age I returned a MoM of ca ~2.5x in 1.5 years by investing in BTC, BNB and LEO.
+  At Midas Capital I was responsible for a team of 5 people, providing liquidity in digital assets exchanges on listed derivatives (swaps and futures).
+  
+  As technology consultant I worked with BlockchainLab, BitQuota, The Rock Trading and Cydia (iOS marketplace for jailbroken devices). 
+  
+  As an Angel Investor I carried several investments in early-stage and more established companies such as Bitfinex, The Rock Trading, IONOMR, AlphaFlow. You can see some of them on my profile below.
+  
+  <br>
+  <a href="https://angel.co/u/natalifederico">View My Angel.co Account</a>
+  
+  I am skilled in Portfolio Management, Market-microstructure, Systematic Trading, Derivatives, and Alternative Investments. I am a perpetual student, interested in quantitative finance, technology and philosophy. My programming languages of choice are Python and R. I hold a MSc in Analytics and Management from London Business School and a BSc in International Economics and Finance from Bocconi University.
+
+  <br>
+  <a href="https://www.linkedin.com/in/federico-natali/">View My LinkedIn Profile</a> 
+  <br>
+  <a href="https://mobile.twitter.com/federico_light/">View My Twitter Account</a>
+  
+  My favorite quote is "By virtue of exchange one man's prosperity is beneficial to all others" by Frederic Bastiat.
+  
+  I am a supporter of both the Mises Insitute and the Electronic Frontied Foundation
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
