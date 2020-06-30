@@ -5,11 +5,11 @@ Over the past years, I pursued three simultaneous careers, as (a) an investment 
   During my tenure at Digital Age I returned ~2.5x in 1.5 years by investing in BTC, BNB and LEO.
   At Midas Capital I was responsible for a team of 5 people, providing liquidity in digital assets listed derivatives (swaps, futures and options).
   
-  As technology consultant I worked with BlockchainLab, BitQuota, The Rock Trading and Cydia (iOS marketplace for jailbroken devices). 
+  As technology consultant I worked with BlockchainLab, BitQuota, The Rock Trading and Cydia. 
   
-  As an Angel Investor I carried several investments in early-stage and more established companies such as Bitfinex, The Rock Trading, IONOMR, AlphaFlow. You can see some of them on my profile below.
+  As an Angel Investor I carried several investments in early-stage and more established companies such as Bitfinex, The Rock Trading, IONOMR, AlphaFlow and Kraken.
   
-  I am skilled in Portfolio Management, Market-microstructure, Systematic Trading, Derivatives, and Alternative Investments. I am a perpetual student, interested in quantitative finance, technology and philosophy. My programming languages of choice are Python and R. I hold a MSc in Analytics and Management from London Business School and a BSc in International Economics and Finance from Bocconi University.
+  I am skilled in Portfolio Management, Market-microstructure, Systematic Trading, Derivatives, and Alternative Investments. I am a perpetual learner, interested in quantitative finance, technology and philosophy. My programming languages of choice are Python and R. I hold a MSc in Analytics and Management from London Business School and a BSc in International Economics and Finance from Bocconi University.
 
 
 ## Portfolio
