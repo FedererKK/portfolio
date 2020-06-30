@@ -23,6 +23,11 @@ for monitoring real-time Open Interest, bid-ask among 5+ exchanges. Built using 
 <br>
 <img src="images/picture_1.png?raw=true"/>
 
+[Equity Derivatives dashboard]()
+for the automatic generation of company reports with a focus on equity derivatives: options with highest OI by strike and by maturity, most traded, volatility smile and ATM vol term strcture. Data are relieved in real time from Yahoo Finance and elaborated using mostly pandas and numpy. The web page is rendered completely using Dash by Plotly.
+<br>
+<img src="images/picture_2.png?raw=true"/>
+
 ---
 
 ### Research
