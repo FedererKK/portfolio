@@ -2,7 +2,7 @@
 
 Over the past years, I pursued three simultaneous careers, as (a) an investment manager for Digital Age Fund and Midas Capital, (b) as a technology consultant and (c) as Angel Investor.
   
-  During my tenure at Digital Age I returned ~2.5x in 1.5 years by investing in BTC, BNB and LEO.
+  During my tenure at Digital Age I returned ~2.5x in 1.5 years by investing in cryptocurrencies.
   At Midas Capital I was responsible for a team of 5 people, providing liquidity in digital assets listed derivatives (swaps, futures and options).
   
   As technology consultant I worked with BlockchainLab, BitQuota, Medisieve, The Rock Trading and Cydia. 
