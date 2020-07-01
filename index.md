@@ -30,6 +30,7 @@ for the automatic generation of company reports with a focus on equity derivativ
 <br><br>
 <img src="images/picture_2.png?raw=true"/>
 
+
 ---
 
 ### Research
