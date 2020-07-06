@@ -37,6 +37,8 @@ for the automatic generation of company reports with a focus on equity derivativ
 - [Jupyter Notebook - Pricing North American High Yield CDS Index](https://github.com/FedererKK/cds-pricing/blob/master/Pricing%20CDX%20High%20Yield%20.ipynb)
 <br>
 - [Rmd file - Machine Learning for Netflix movie recommendation](https://github.com/FedererKK/netflix-recommendation)
+<br>
+- [Milking the XBTUSD Perpetual Swap - Trading Strategy Analysis](https://drive.google.com/file/d/1swaqOFZkS2qelNp0xsVM-fkuLKb-jMgc/view?usp=sharing)
 
 
 
