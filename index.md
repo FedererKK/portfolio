@@ -18,6 +18,10 @@ Over the past years, I pursued three simultaneous careers, as (a) an investment 
 
 ### Projects
 
+[Bitcoin Volatility Surface Explorer](http://volatility-surface.eu-central-1.elasticbeanstalk.com/)
+for tracking and exploring current state of XBTUSDT option market on Deribit. The user can investigate the change in IV, greeks (gamma, theta, vega) and Open Interest through time.
+<img src="images/picture_3.png?raw=true"/>
+
 [Bitcoin Futures dashboard](https://charts.mongodb.com/charts-project-0-yleox/public/dashboards/884a1d91-0aed-43a4-ab6b-f198b5748209)
 for monitoring real-time Open Interest, bid-ask among 5+ exchanges. Built using serverless AWS Lambda plus mongoDB for storing data.
 <br><br>
