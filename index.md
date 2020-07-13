@@ -18,7 +18,7 @@ Over the past years, I pursued three simultaneous careers, as (a) an investment 
 
 ### Projects
 
-[Bitcoin Volatility Surface Explorer](http://volatility-surface.eu-central-1.elasticbeanstalk.com/)
+[Bitcoin Volatility Surface Explorer](http://volatilitysurface-dev.eu-central-1.elasticbeanstalk.com/)
 for tracking and exploring current state of XBTUSDT option market on Deribit. The user can investigate the change in IV, greeks (gamma, theta, vega) and Open Interest through time.
 <br><br>
 <img src="images/picture_3.png?raw=true"/>
