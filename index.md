@@ -16,7 +16,14 @@ Over the past years, I pursued three simultaneous careers, as (a) an investment 
 
 ---
 
-### Projects
+### Projects (some might be offline as they are Work in Progress)
+
+[Bitcoin Futures dashboard](https://charts.mongodb.com/charts-project-0-yleox/public/dashboards/884a1d91-0aed-43a4-ab6b-f198b5748209)
+for monitoring real-time Open Interest, bid-ask among 5+ exchanges. Built using serverless AWS Lambda plus mongoDB for storing data.
+<br><br>
+<img src="images/picture_1.png?raw=true"/>
+<br>
+___
 
 [Bitcoin Volatility Surface Explorer](http://volatilitysurface-dev.eu-central-1.elasticbeanstalk.com/)
 for tracking and exploring current state of XBTUSDT option market on Deribit. The user can investigate the change in IV, greeks (gamma, theta, vega) and Open Interest through time.
@@ -25,12 +32,6 @@ for tracking and exploring current state of XBTUSDT option market on Deribit. Th
 <br>
 ___
 
-[Bitcoin Futures dashboard](https://charts.mongodb.com/charts-project-0-yleox/public/dashboards/884a1d91-0aed-43a4-ab6b-f198b5748209)
-for monitoring real-time Open Interest, bid-ask among 5+ exchanges. Built using serverless AWS Lambda plus mongoDB for storing data.
-<br><br>
-<img src="images/picture_1.png?raw=true"/>
-<br>
-___
 
 [Equity Derivatives dashboard](http://aws-elasticbeans-dev.eu-central-1.elasticbeanstalk.com/)
 for the automatic generation of company reports with a focus on equity derivatives: options with highest OI by strike and by maturity, most traded, volatility smile and ATM vol term structure. Data are relieved from Yahoo Finance. The web page is rendered completely using Dash by Plotly, datas are elaborated with pandas and Numpy.
