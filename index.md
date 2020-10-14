@@ -19,6 +19,8 @@ Over the past years, I pursued three simultaneous careers, as (a) an investment 
 | Bitfinex  | AlphaFlow  | BlaBlaCar  | FTX  |
 | <img src="https://angel.co/cdn-cgi/image/height=136,width=136,format=auto,fit=scale-down/https://photos.angel.co/startups/i/1805287-f1522b65e291b197fc3d213d4c0cdc16-thumb_jpg.jpg?raw=true"/>  | <img src="https://angel.co/cdn-cgi/image/height=136,width=136,format=auto,fit=scale-down/https://photos.angel.co/startups/i/122383-b666b9c03ec8ea446446e092cd79c5ff-thumb_jpg.jpg?raw=true"/>  | <img src="https://angel.co/cdn-cgi/image/height=136,width=136,format=auto,fit=scale-down/https://photos.angel.co/startups/i/1180583-51f86d3eed44a65d494e0d76a6b1b10f-thumb_jpg.jpg?raw=true"/>  | <img src="https://angel.co/cdn-cgi/image/height=136,width=136,format=auto,fit=scale-down/https://photos.angel.co/startups/i/1048973-27310d585e0d209caf6e8f2d6cca1563-thumb_jpg.jpg?raw=true"/>  |
 | IONOMR  | Kraken  | The Rock Trading  | Stache  |
+| <img src="https://angel.co/cdn-cgi/image/height=136,width=136,format=auto,fit=scale-down/https://photos.angel.co/startups/i/389835-84d7ee02a25c23267757fa0c6f16b5b7-thumb_jpg.jpg?raw=true"/>  | <img src="https://angel.co/cdn-cgi/image/height=136,width=136,format=auto,fit=scale-down/https://photos.angel.co/startups/i/5220774-df1ebfe9b626de6ace2b454393d63103-thumb_jpg.jpg?raw=true"/>  | <img src="https://angel.co/cdn-cgi/image/height=136,width=136,format=auto,fit=scale-down/https://photos.angel.co/startups/i/5486340-ccc17f353fbb5ca2e134b952d630eb87-thumb_jpg.jpg?raw=true"/>  | <img src="https://images-na.ssl-images-amazon.com/images/I/21u5Kw1n+IL._SX331_BO1,204,203,200_.jpg?raw=true"/>  |
+| RingMD  | Okex  | creatyve  | ???  |
 
 
 
