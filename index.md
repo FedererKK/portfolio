@@ -13,10 +13,13 @@ Over the past years, I pursued three simultaneous careers, as (a) an investment 
 
 ## Investment Portfolio
 
-| First Header  | Second Header |
 | ------------- | ------------- |
+| ------------- | ------------- |
+| [Bitfinex](https://angel.co/cdn-cgi/image/height=136,width=136,format=auto,fit=scale-down/https://photos.angel.co/startups/i/621288-74e018eae81f56a156fb2df7dffe1bd7-thumb_jpg.jpg?buster=1518164624)  | Content Cell  |
 | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
+
+
 
 ## Dev Portfolio
 
