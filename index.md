@@ -13,10 +13,10 @@ Over the past years, I pursued three simultaneous careers, as (a) an investment 
 
 ## Investment Portfolio
 
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| <img src="https://angel.co/cdn-cgi/image/height=136,width=136,format=auto,fit=scale-down/https://photos.angel.co/startups/i/621288-74e018eae81f56a156fb2df7dffe1bd7-thumb_jpg.jpg?raw=true"/>  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
+| <img src="https://angel.co/cdn-cgi/image/height=136,width=136,format=auto,fit=scale-down/https://photos.angel.co/startups/i/621288-74e018eae81f56a156fb2df7dffe1bd7-thumb_jpg.jpg?raw=true"/>  | <img src="https://angel.co/cdn-cgi/image/height=136,width=136,format=auto,fit=scale-down/https://photos.angel.co/startups/i/712371-011baf82eb3e5f1481b47a2a92e7601d-thumb_jpg.jpg?raw=true"/>  | <img src="https://angel.co/cdn-cgi/image/height=136,width=136,format=auto,fit=scale-down/https://photos.angel.co/startups/i/669844-c3c044969d9b854897a7c8f592ecb3e3-thumb_jpg.jpg?raw=true"/>  | <img src="https://angel.co/cdn-cgi/image/height=136,width=136,format=auto,fit=scale-down/https://photos.angel.co/startups/i/7461162-ff5b6f79ff69f2c55c77041c2c5f3efa-thumb_jpg.jpg?raw=true"/>  |
+| Bitfinex  | AlphaFlow  | BlaBlaCar  | FTX  |
 
 
 
