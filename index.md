@@ -11,8 +11,14 @@ Over the past years, I pursued three simultaneous careers, as (a) an investment 
   
   I am skilled in Portfolio Management, Market-microstructure, Systematic Trading, Derivatives, and Alternative Investments. I am a perpetual learner, interested in quantitative finance, technology and philosophy. My programming languages of choice are Python and R. I hold a MSc in Analytics and Management from London Business School and a BSc in International Economics and Finance from Bocconi University.
 
+## Investment Portfolio
 
-## Portfolio
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+## Dev Portfolio
 
 ---
 
